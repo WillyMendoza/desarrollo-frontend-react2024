@@ -32,7 +32,7 @@ const Contador = () => {
         return() => {
             console.log("El componente se ha desmontado");
         }
-    }, []);
+    });
 
     return (
         <>
