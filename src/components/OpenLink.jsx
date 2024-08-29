@@ -14,3 +14,4 @@ const OpenLink = ({ title, url }) => {
 };
 
 export default OpenLink;
+
